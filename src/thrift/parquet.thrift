@@ -217,6 +217,7 @@ enum CompressionCodec {
   SNAPPY = 1;
   GZIP = 2;
   LZO = 3;
+  ZSTD = 6;
 }
 
 enum PageType {
